@@ -1,11 +1,11 @@
 {
-  "name": "progtech-antora-ui-default",
-  "description": "Antora pages design for the Programming Technologies course",
-  "homepage": "https://github.com/progtech-course/antora-ui",
+  "name": "devtools-antora-ui-default",
+  "description": "Antora pages design for the DevTools course",
+  "homepage": "https://github.com/devtools-course/antora-ui",
   "license": "MPL-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/progtech-course/antora-ui.git"
+    "url": "https://github.com/devtools-course/antora-ui.git"
   },
   "engines": {
     "node": ">= 8.0.0"

@@ -1,6 +1,6 @@
 = Antora pages design
 // Project URLs:
-:url-project: https://github.com/progtech-course/antora-ui/actions/workflows
+:url-project: https://github.com/devtools-course/antora-ui/actions/workflows
 :workflow: bundle.yml
 :img-ci-status: {url-project}/{workflow}/badge.svg
 :img-rel-status: {url-project}/release.yml/badge.svg
@@ -9,7 +9,7 @@
 image:{img-ci-status}[CI Status]
 image:{img-rel-status}[Release Status]
 
-The customisation of the {antora-url-project}[default Antora UI] for the "Programming Technologies" course.
+The customisation of the {antora-url-project}[default Antora UI] for the "DevTools" course.
 
 == Copyright and License
 
