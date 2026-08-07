@@ -358,9 +358,11 @@ Or you can install the metapackage to upgrade both packages at once.
  $ npm i -g *antora*
 ====
 
-[NOTE.todo]
+NOTE: Все что описано далее также применимо для `dnf`.
+
+[NOTE]
 ====
-Нужна ссыль на mounting process
+Все что описано далее также применимо для `dnf`.
 ====
 
 Nominavi luptatum eos, an vim hinc philosophia intellegebat.
